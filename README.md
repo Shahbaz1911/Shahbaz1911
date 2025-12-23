@@ -1,4 +1,12 @@
-👋 Hi, I'm **Shahbaz Khan** — an **ECE graduate** passionate about **Web Development, Networking, and System Infrastructure**.
+
+<h1 align="center">Hi 👋, I'm Shahbaz Khan</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7E3FF2&center=true&vCenter=true&width=650&lines=ECE+Graduate;Web+Developer;Next.js+%7C+React+%7C+Firebase;Linux+%7C+DevOps+%7C+Networking"
+    alt="Typing SVG"
+  />
+</p>
 
 ⚡ I build **scalable, SEO-friendly web apps** using **Next.js, React & Firebase**, with hands-on experience in  **Linux administration  , networking, and server deployment**.
 
