@@ -1,5 +1,9 @@
-# 💫 About Me:
-## 🧑‍💻 About Me<br><br>👋 Hi, I'm **Shahbaz Khan**, an **Electronics & Communication Engineering (ECE) graduate** with a strong interest in **Web Development, Networking, and System Infrastructure**.<br><br>💼 I have hands-on experience in **Networking, Linux Administration, and Web Development**, and I enjoy building scalable, performance-focused web applications.<br><br>🌐 I work with **Next.js, React, Firebase**, and modern frontend tools to create clean, SEO-friendly user experiences.<br><br>🔧 I have a solid understanding of **Networking concepts, DevOps practices, server deployment, and reverse proxy configurations**.<br><br>📍 Based in **Delhi, India**, I am continuously learning and improving my skills to stay aligned with modern industry standards.
+👋 Hi, I'm **Shahbaz Khan** — an **ECE graduate** passionate about **Web Development, Networking, and System Infrastructure**.
+
+⚡ I build **scalable, SEO-friendly web apps** using **Next.js, React & Firebase**, with hands-on experience in **Linux administration, networking, and server deployment**.
+
+🔧 Strong foundation in **DevOps practices and system-level troubleshooting**.  
+
 
 
 ## 🌐 Socials:
@@ -14,6 +18,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -35,7 +40,10 @@
 ![Apache](https://img.shields.io/badge/Apache_HTTPD-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ---
 
@@ -67,6 +75,8 @@
 ---
 
 ### 🎓 Networking Certifications
+![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Certified-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge)
 ![CCNP](https://img.shields.io/badge/CCNP-Cisco-0B5ED7?style=for-the-badge)
 
