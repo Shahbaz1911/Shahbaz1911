@@ -1,6 +1,6 @@
 👋 Hi, I'm **Shahbaz Khan** — an **ECE graduate** passionate about **Web Development, Networking, and System Infrastructure**.
 
-⚡ I build **scalable, SEO-friendly web apps** using **Next.js, React & Firebase**, with hands-on experience in **Linux administration, networking, and server deployment**.
+⚡ I build **scalable, SEO-friendly web apps** using **Next.js, React & Firebase**, with hands-on experience in  **Linux administration  , networking, and server deployment**.
 
 🔧 Strong foundation in **DevOps practices and system-level troubleshooting**.  
 
