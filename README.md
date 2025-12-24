@@ -83,8 +83,8 @@
 ---
 
 ### 🎓 Networking Certifications
-![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Certified-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.guvi.in/certificate?id=58zhB21116v56Z77x5)
+[![C++](https://img.shields.io/badge/C++-Certified-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.udemy.com/certificate/UC-80206191-4f04-4d5a-81d3-2cfbd9826aff/)
 ![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge)
 ![CCNP](https://img.shields.io/badge/CCNP-Cisco-0B5ED7?style=for-the-badge)
 
