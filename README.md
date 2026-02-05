@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Khan</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7E3FF2&center=true&vCenter=true&width=650&lines=ECE+Graduate;Web+Developer;Next.js+%7C+React+%7C+Firebase;Linux+%7C+DevOps+%7C+Networking"
-    alt="Typing SVG"
-  />
-</p>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=44&pause=1000&color=7E3FF2&center=true&vCenter=true&width=700&lines=ECE+GRADUATE;WEB+DEVELOPER;LINUX+%7C+DEVOPS+%7C+NETWORKING;NEXT.JS+%7C+REACT+%7C+FIREBASE;"
+  alt="Typing SVG"
+/>
+
 
 ⚡ I build **scalable, SEO-friendly web apps** using **Next.js, React & Firebase**, with hands-on experience in  **Linux administration  , networking, and server deployment**.
 
