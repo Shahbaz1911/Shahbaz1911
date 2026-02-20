@@ -1,11 +1,21 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shahbaz Khan</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+SHAHBAZ;Welcome+to+my+profile!" alt="Title"></img>
+
+</div>
+<!-- <h1 align="center">Hi 👋, I'm Shahbaz Khan</h1> -->
 
 <p align="center">
-<img 
+<!-- <img 
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=44&pause=1000&color=7E3FF2&center=true&vCenter=true&width=700&lines=ECE+GRADUATE;WEB+DEVELOPER;LINUX+%7C+DEVOPS+%7C+NETWORKING;NEXT.JS+%7C+REACT+%7C+FIREBASE;"
   alt="Typing SVG"
-/>
+/> -->
+<br>
+
+
+
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+
 
 
 ⚡ I build **scalable, SEO-friendly web apps** using **Next.js, React & Firebase**, with hands-on experience in  **Linux administration  , networking, and server deployment**.
